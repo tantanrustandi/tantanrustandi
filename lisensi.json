@@ -2,11 +2,13 @@
   "licenses": [
     {
       "buyer": "Budi Santoso",
-      "code": "INDOW-29A8BC"
+      "code": "INDOW-29A8BC",
+      "domain": "budinews.blogspot.com"
     },
     {
       "buyer": "Tantan",
-      "code": "INDOW-XYZ123"
+      "code": "INDOW-XYZ123",
+      "domain": "indowartanesian.blogspot.com"
     }
   ]
 }
